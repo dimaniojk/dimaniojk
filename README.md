@@ -2,7 +2,6 @@
 - 👀 I’m interested in Video games and programing
 - 🌱 I’m currently learning Java script
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I know Lithuanian language
 
 <!---
 dimaniojk/dimaniojk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
